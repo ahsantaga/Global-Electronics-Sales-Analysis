@@ -8,7 +8,7 @@ This project transforms transactional data into an interactive business intellig
 
 ---
 
-## Business Questions
+## Business Questions:
 
 This project addresses the four core business questions provided by **Maven Analytics**:
 
